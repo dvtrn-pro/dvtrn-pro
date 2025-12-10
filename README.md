@@ -4,7 +4,7 @@
 
 
 
-## SECURITY TOOLS
+## Security Tools
 
 ### Endpoint Protection
 <div>
