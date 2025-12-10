@@ -28,5 +28,5 @@
 
 ### Certifications
 <div>
-  <img src="https://img.shields.io/badge/-Security%2B-C71A16?style=for-the-badge" alt="Security+ Badge" />
+  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
