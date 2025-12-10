@@ -8,7 +8,7 @@
 
 ### Endpoint Protection
 <div>
-  <img src="https://img.shields.io/badge/-CrowdStrike-FF0000?style=for-the-badge&logo=crowdstrike&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CrowdStrike_Falcon-FF0000?style=for-the-badge&logo=crowdstrike&logoColor=white" />
   <img src="https://img.shields.io/badge/-Cortex_XDR-28A745?style=for-the-badge&logo=palo-alto-networks&logoColor=white" />
   <img src="https://img.shields.io/badge/-Symantec_Endpoint_Protection-FFD700?style=for-the-badge&logo=symantec&logoColor=black" />
 </div>
