@@ -25,3 +25,8 @@
   <img src="https://img.shields.io/badge/-Tenable_Nessus-22ACBA?style=for-the-badge&logo=tenable&logoColor=white" alt="Tenable Nessus" />
   <img src="https://img.shields.io/badge/-Tenable_SecurityCenter-003366?style=for-the-badge&logo=tenable&logoColor=white" alt="Tenable SecurityCenter" />
 </div>
+
+### Certifications
+<div>
+  <img src="https://img.shields.io/badge/-Security%2B-C71A16?style=for-the-badge" alt="Security+ Badge" />
+</div>
