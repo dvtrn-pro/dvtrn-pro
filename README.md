@@ -15,7 +15,7 @@
 
 ### Security Information and Event Management
 <div>
-  <img src="https://img.shields.io/badge/-Splunk-507CA1?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
+  <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
   <img src="https://img.shields.io/badge/-Sumo_Logic-003366?style=for-the-badge&logo=sumologic&logoColor=white" alt="Sumo Logic" />
 </div>
 
@@ -23,4 +23,5 @@
 <div>
   <img src="https://img.shields.io/badge/-Qualys-ED2E26?style=for-the-badge&logo=qualys&logoColor=white" alt="Qualys" />
   <img src="https://img.shields.io/badge/-Tenable_Nessus-22ACBA?style=for-the-badge&logo=tenable&logoColor=white" alt="Tenable Nessus" />
+  <img src="https://img.shields.io/badge/-Tenable_SecurityCenter-003366?style=for-the-badge&logo=tenable&logoColor=white" alt="Tenable SecurityCenter" />
 </div>
