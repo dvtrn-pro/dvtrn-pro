@@ -20,9 +20,9 @@
 </div>
 
 ### Vulnerability Management (VM)
-<div
-  <img src="https://img.shields.io/badge/-Tenable_Nessus-22ACBA?style=for-the-badge&logo=tenable&logoColor=white" alt="Tenable Nessus" />
-  <img src="https://img.shields.io/badge/-Tenable_Security_Center-003366?style=for-the-badge&logo=tenable&logoColor=white" alt="Tenable SecurityCenter" />
+<div>
+  <img src="https://img.shields.io/badge/Tenable%20Nessus-0073CF?style=for-the-badge&logo=tenable&logoColor=white" alt="Tenable Nessus" />
+  <img src="https://img.shields.io/badge/Tenable%20Security%20Center-003366?style=for-the-badge&logo=tenable&logoColor=white" alt="Tenable Security Center" />
   <img src="https://img.shields.io/badge/-Qualys-ED2E26?style=for-the-badge&logo=qualys&logoColor=white" alt="Qualys" />
 </div>
 
